@@ -1,5 +1,5 @@
 # HTML Entities 
-###  All Entities Here -  [entities](https://symbl.cc/en/unicode-table/ "entities")
+###  All Entities Here -  [Entities](https://symbl.cc/en/unicode-table/ "Entities")
 
 ##### Add ";" after phrase
 - &copy; - "&copy"
