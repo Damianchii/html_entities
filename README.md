@@ -1,5 +1,5 @@
 # HTML Entities 
-###  All Entities Here -  [Entities]([https://html.spec.whatwg.org/multipage/named-characters.html](https://symbl.cc/en/unicode-table/) "Entities")
+###  All Entities Here -  [Entities]([https://html.spec.whatwg.org/multipage/named-characters.html] "Entities")
 
 ##### Add ";" after phrase
 - &copy; - "&copy"
